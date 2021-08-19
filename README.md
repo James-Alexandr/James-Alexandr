@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **James-Alexandr/James-Alexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello World!, I'm James.
+### Hello World!, I'm James.
 
 As a Software Developer I am always learning and looking to make a positive impact in the world. 
 - 🔭 I’m currently working on a cool web app.
